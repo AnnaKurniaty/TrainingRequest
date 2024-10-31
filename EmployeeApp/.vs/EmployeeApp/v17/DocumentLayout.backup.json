@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\employeeapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\employeeapp\\employeeapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\employeeapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\employeeapp\\view\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\view\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\employeeapp\\view\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\view\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\employeeapp\\view\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\view\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\employeeapp\\view\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\view\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\employeeapp\\view\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\view\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\employeeapp\\view\\employees\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\view\\employees\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E863C25-2D3F-4A44-817A-3A7E0A051EEF}|Domain\\Domain.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E863C25-2D3F-4A44-817A-3A7E0A051EEF}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F08565-9DD3-481B-9D7F-179DB8268B28}|Infrastructure\\Infrastructure.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F08565-9DD3-481B-9D7F-179DB8268B28}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E863C25-2D3F-4A44-817A-3A7E0A051EEF}|Domain\\Domain.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E863C25-2D3F-4A44-817A-3A7E0A051EEF}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\employeeapp\\employeeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\employeeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\employeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F08565-9DD3-481B-9D7F-179DB8268B28}|Infrastructure\\Infrastructure.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F08565-9DD3-481B-9D7F-179DB8268B28}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\employeeapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDF58E2-DF22-423B-B073-04EE363966C4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4D9E8-7D67-4154-97C9-4DB4053F7391}|Application\\Application.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B4D9E8-7D67-4154-97C9-4DB4053F7391}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4D9E8-7D67-4154-97C9-4DB4053F7391}|Application\\Application.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B4D9E8-7D67-4154-97C9-4DB4053F7391}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4D9E8-7D67-4154-97C9-4DB4053F7391}|Application\\Application.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B4D9E8-7D67-4154-97C9-4DB4053F7391}|Application\\Application.csproj|solutionrelative:application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B4D9E8-7D67-4154-97C9-4DB4053F7391}|Application\\Application.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D9B4D9E8-7D67-4154-97C9-4DB4053F7391}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F08565-9DD3-481B-9D7F-179DB8268B28}|Infrastructure\\Infrastructure.csproj|c:\\users\\annak\\source\\repos\\employeeapp\\infrastructure\\migrations\\20241031011942_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F08565-9DD3-481B-9D7F-179DB8268B28}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241031011942_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeApp.http",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\EmployeeApp.http",
+              "RelativeDocumentMoniker": "EmployeeApp\\EmployeeApp.http",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\EmployeeApp.http",
+              "RelativeToolTip": "EmployeeApp\\EmployeeApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-31T01:49:03.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\View\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApp\\View\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\View\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeApp\\View\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T01:25:01.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\View\\Employees\\Add.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApp\\View\\Employees\\Add.cshtml",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\View\\Employees\\Add.cshtml",
+              "RelativeToolTip": "EmployeeApp\\View\\Employees\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T01:24:51.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\View\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApp\\View\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\View\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeeApp\\View\\Employees\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T01:24:33.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241031011942_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Infrastructure\\Migrations\\20241031011942_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241031011942_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Infrastructure\\Migrations\\20241031011942_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241031011942_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:19:42.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:21:07.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\View\\Employees\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\View\\Employees\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\View\\Employees\\Edit.cshtml.cs",
+              "RelativeToolTip": "EmployeeApp\\View\\Employees\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:25:20.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\View\\Employees\\Add.cshtml.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\View\\Employees\\Add.cshtml.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\View\\Employees\\Add.cshtml.cs",
+              "RelativeToolTip": "EmployeeApp\\View\\Employees\\Add.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:30:36.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\View\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\View\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\View\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "EmployeeApp\\View\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:31:21.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:06:40.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:20:18.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\appsettings.json",
+              "RelativeToolTip": "EmployeeApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T00:41:28.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeApp.csproj",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
+              "RelativeDocumentMoniker": "EmployeeApp\\EmployeeApp.csproj",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
+              "RelativeToolTip": "EmployeeApp\\EmployeeApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T23:17:48.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:19:11.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Program.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\Program.cs",
+              "RelativeToolTip": "EmployeeApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:42:02.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:20:04.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\Startup.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Startup.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\EmployeeApp\\Startup.cs",
+              "RelativeToolTip": "EmployeeApp\\Startup.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:21:22.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:54:31.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:18:44.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Application\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:18:42.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\annak\\source\\repos\\EmployeeApp\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T23:17:49.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

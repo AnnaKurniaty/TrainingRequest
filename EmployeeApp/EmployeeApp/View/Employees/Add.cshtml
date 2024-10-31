@@ -1,0 +1,42 @@
+﻿@page
+@model EmployeeApp.View.Employees.AddModel
+@{
+    ViewData["Title"] = "Add Employee";
+}
+
+<h1>Add Employee</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Employee.NIK"></label>
+        <input asp-for="Employee.NIK" class="form-control" />
+        <span asp-validation-for="Employee.NIK" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.FullName"></label>
+        <input asp-for="Employee.FullName" class="form-control" />
+        <span asp-validation-for="Employee.FullName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.Gender"></label>
+        <input asp-for="Employee.Gender" class="form-control" />
+        <span asp-validation-for="Employee.Gender" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.DateOfBirth"></label>
+        <input asp-for="Employee.DateOfBirth" class="form-control" type="date" />
+        <span asp-validation-for="Employee.DateOfBirth" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.Address"></label>
+        <input asp-for="Employee.Address" class="form-control" />
+        <span asp-validation-for="Employee.Address" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.Country"></label>
+        <input asp-for="Employee.Country" class="form-control" />
+        <span asp-validation-for="Employee.Country" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>

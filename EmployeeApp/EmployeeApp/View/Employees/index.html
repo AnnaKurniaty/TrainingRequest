@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Employee</title>
+    <link rel="stylesheet" href="libs/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Employee Aplication</h1>
+
+        <!-- Form Pencarian -->
+        <div class="form-group">
+            <label for="searchReg">NIK:</label>
+            <input type="text" id="searchReg" class="form-control" placeholder="Insert NIK">
+        </div>
+        <div class="form-group">
+            <label for="searchOwner">FUll Name:</label>
+            <input type="text" id="searchOwner" class="form-control" placeholder="Insert Full Name">
+        </div>
+        <button id="search-button" class="btn btn-primary">Search</button>
+        <button id="add-employee" class="btn btn-success" onclick="window.location.href='add.html'">Insert Employee</button>
+
+        <table id="employee-table" class="table table-striped">
+            <thead>
+                <tr>
+                    <th>NIK</th>
+                    <th>Full Name</th>
+                    <th>Gender</th>
+                    <th>Date of Birth</th>
+                    <th>Address</th>
+                    <th>Country</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
